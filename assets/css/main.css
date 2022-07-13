@@ -1,0 +1,16 @@
+.title{
+    margin-top: 20px;
+}
+
+.article{
+    border: 2px solid;
+    margin: 20px 0px;
+    padding-top: 20px;
+}
+
+.article-header{
+    margin-bottom: 0px;
+}
+
+.login-panel{
+}
